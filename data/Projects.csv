@@ -1,0 +1,11 @@
+Project ID,Project Name,Location,Project Manager,Start Date,Planned End Date,Budget,Project Type,Status
+PRJ001,Chennai Metro Line 4 Substructure,Chennai (Porur-Poonamallee),Rajesh Kumar,2023-01-15,2024-12-31,1200000000,Infrastructure,Delayed
+PRJ002,OMR Cyber Gateway Tower Phase 2,Chennai (OMR-Sholinganallur),Priya Raman,2023-03-01,2024-11-30,850000000,Commercial,In Progress
+PRJ003,Marina Coastal Promenade Expansion,Chennai (Marina Beach),Suresh Natarajan,2023-01-10,2024-04-30,350000000,Infrastructure,Completed
+PRJ004,Guindy Green Tech Park,Chennai (Guindy Industrial Estate),Ananya Iyer,2023-04-01,2025-02-28,950000000,Commercial,In Progress
+PRJ005,Velachery Commercial Mall & Multiplex,Chennai (Velachery),Karthik Subramanian,2023-02-15,2024-10-31,750000000,Commercial,Delayed
+PRJ006,Tambaram Smart Residential Township,Chengalpattu (Tambaram West),Divya Venkatesh,2023-05-01,2025-06-30,600000000,Residential,In Progress
+PRJ007,Sriperumbudur EV Manufacturing Plant,Kanchipuram (Sriperumbudur),Arunachalam M.,2023-02-01,2024-09-30,1100000000,Industrial,Delayed
+PRJ008,Porur Grade Separator & Junction,Chennai (Porur),Meera Krishnan,2023-06-01,2025-03-31,450000000,Infrastructure,In Progress
+PRJ009,ECR Seaside Luxury Enclave,Chennai (ECR-Kovalam),Vigneshwaran S.,2023-01-01,2024-03-31,400000000,Residential,Completed
+PRJ010,Poonamallee Logistics & Freight Hub,Tiruvallur (Poonamallee),Deepa Balaji,2023-07-01,2025-05-31,500000000,Industrial,In Progress

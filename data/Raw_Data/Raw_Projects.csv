@@ -1,0 +1,11 @@
+prj_id ,Project_Name ,Site_Location,Assigned_PM,Date_Commenced,Target_Completion,Approved_Budget_INR,Sector,Execution_Status
+PRJ001 ,Chennai Metro Line 4 Substructure,Chennai (Porur-Poonamallee),Rajesh Kumar,15/01/2023,31/12/2024,"INR 1,200,000,000",Infrastructure,DELAYED
+PRJ002 ,OMR Cyber Gateway Tower Phase 2,Chennai (OMR-Sholinganallur),Priya Raman,01/03/2023,30/11/2024,"INR 850,000,000",Commercial,IN PROGRESS
+PRJ003 ,Marina Coastal Promenade Expansion,Chennai (Marina Beach),Suresh Natarajan,10/01/2023,30/04/2024,"INR 350,000,000",Infrastructure,COMPLETED
+PRJ004 ,Guindy Green Tech Park,Chennai (Guindy Industrial Estate),Ananya Iyer,01/04/2023,28/02/2025,"INR 950,000,000",Commercial,IN PROGRESS
+PRJ005 ,Velachery Commercial Mall & Multiplex,Chennai (Velachery),Karthik Subramanian,15/02/2023,31/10/2024,"INR 750,000,000",Commercial,DELAYED
+PRJ006 ,Tambaram Smart Residential Township,Chengalpattu (Tambaram West),Divya Venkatesh,01/05/2023,30/06/2025,"INR 600,000,000",Residential,IN PROGRESS
+PRJ007 ,Sriperumbudur EV Manufacturing Plant,Kanchipuram (Sriperumbudur),Arunachalam M.,01/02/2023,30/09/2024,"INR 1,100,000,000",Industrial,DELAYED
+PRJ008 ,Porur Grade Separator & Junction,Chennai (Porur),Meera Krishnan,01/06/2023,31/03/2025,"INR 450,000,000",Infrastructure,IN PROGRESS
+PRJ009 ,ECR Seaside Luxury Enclave,Chennai (ECR-Kovalam),Vigneshwaran S.,01/01/2023,31/03/2024,"INR 400,000,000",Residential,COMPLETED
+PRJ010 ,Poonamallee Logistics & Freight Hub,Tiruvallur (Poonamallee),Deepa Balaji,01/07/2023,31/05/2025,"INR 500,000,000",Industrial,IN PROGRESS
