@@ -116,11 +116,7 @@ The data model follows an optimized **Star Schema (1-to-Many `1:*`)** linking th
 │   └── Power_Query_M_Code.md                              # Advanced Editor M-Code & ETL Rules
 ├── dashboard/
 │   └── Dashboard_Design_Guide.md                          # Visual Positioning, Hex Palette & Theme
-└── docs/
-    ├── PT1_Project_Report.md                              # 21-Section Academic College Submission Report
-    ├── Presentation_Slides.md                             # 12-Slide Review Presentation Outline
-    ├── Viva_Voce_QA.md                                    # 15 High-Probability Viva Voce Questions & Answers
-    └── Project_Architecture_Workflow.md                   # Mermaid & Pipeline Architecture Diagrams
+
 ```
 
 ---
