@@ -90,11 +90,9 @@ The data model follows an optimized **Star Schema (1-to-Many `1:*`)** linking th
 ## 📂 Repository Structure
 
 ```
-├── Construction_Project_Cost_Timeline_Dashboard -2.pbix   # Completed Power BI Report File
-├── Construction_Project_Cost_Timeline_Dashboard.pbix      # Base Power BI Template
+├── Construction_Project_Cost_Timeline_Dashboard -2.pbix   # Power BI File
 ├── Dashboard_Screenshot.png                               # High-Resolution Dashboard Preview Image
 ├── README.md                                              # Comprehensive Project Documentation
-├── WHAT_I_HAVE_TO_DO.md                                   # Step-by-Step Manual Build Instructions
 │
 ├── data/
 │   ├── Cleaned_Data/                                      # Cleaned Production Datasets
